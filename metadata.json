@@ -1,0 +1,6 @@
+{
+  "name": "Talking Tom: Gemini Companion",
+  "description": "An interactive Talking Tom virtual pet and conversational companion powered by Gemini with real-time phoneme lip-syncing, expressive animations, care actions, and voice chat.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
